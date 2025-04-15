@@ -1,0 +1,40 @@
+{
+	"date" : "2025-4-15",
+	"consumptions" : [
+		{
+			"name" : "koffie",
+			"type" : "drinken",
+			"consumed_at" : "7:50",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "Bifi worst XL",
+			"type" : "eten",
+			"consumed_at" : "8:30",
+			"quantity" : 2,
+			"unit" : "stuks"
+		},
+		{
+			"name" : "Amandel drink mix",
+			"type" : "drinken",
+			"consumed_at" : "13:05",
+			"quantity" : 300,
+			"unit" : "ml"
+		},
+		{
+			"name" : "glas water",
+			"type" : "drinken",
+			"consumed_at" : "9:20",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "glas water",
+			"type" : "drinken",
+			"consumed_at" : "12:10",
+			"quantity" : 200,
+			"unit" : "ml"
+		}
+	]
+}

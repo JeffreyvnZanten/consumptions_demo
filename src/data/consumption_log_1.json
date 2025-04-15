@@ -1,0 +1,75 @@
+{
+	"date" : "2025-4-14",
+	"consumptions" : [
+		{
+			"name" : "glidkruid thee",
+			"type" : "drinken",
+			"consumed_at" : "6:45",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "marshmallow thee",
+			"type" : "drinken",
+			"consumed_at" : "7:30",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "dubbele espresso",
+			"type" : "drinken",
+			"consumed_at" : "7:30",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "kokos yoghurt smoothie",
+			"type" : "eten",
+			"consumed_at" : "10:05",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "Bifi worst XL",
+			"type" : "eten",
+			"consumed_at" : "10:30",
+			"quantity" : 2,
+			"unit" : "stuks"
+		},
+		{
+			"name" : "citroenmelisse thee",
+			"type" : "drinken",
+			"consumed_at" : "11:00",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "marshmallow thee",
+			"type" : "drinken",
+			"consumed_at" : "11:00",
+			"quantity" : 200,
+			"unit" : "ml"
+		},
+		{
+			"name" : "cacao drink",
+			"type" : "drinken",
+			"consumed_at" : "13:05",
+			"quantity" : 140,
+			"unit" : "ml"
+		},
+		{
+			"name" : "grillworst kaas",
+			"type" : "eten",
+			"consumed_at" : "16:05",
+			"quantity" : 200,
+			"unit" : "g"
+		},
+		{
+			"name" : "kipfilet",
+			"type" : "eten",
+			"consumed_at" : "18:20",
+			"quantity" : 200,
+			"unit" : "g"
+		}
+	]
+}

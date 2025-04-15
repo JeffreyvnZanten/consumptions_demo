@@ -1,0 +1,30 @@
+.consumption-item-container {
+    width: 20em;
+    height: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    cursor: pointer;
+  }
+  
+  .drink-item {
+    background-color: rgba(1, 167, 233, 0.678);
+  }
+  
+  .food-item {
+    background-color: rgba(238, 124, 18, 0.76);
+  }
+  
+  .timestamp {
+    padding: 0.25em;
+    background-color: rgb(126, 125, 125);
+    width: 3em;
+    text-align: center;
+    border-radius: 0.5em;
+  }
+  
+  .name {
+    padding: 1em;
+  }
