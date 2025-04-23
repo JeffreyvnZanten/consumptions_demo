@@ -1,5 +1,6 @@
-# Een webapp met react, typescript en css op basis van json data
+# Preview van de logfunctionaliteit van de consumptietracker
+# Gemaakt met: React, Typescript en CSS
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <img src="https://i.imgur.com/y4ML3eA.png" alt="Alt Text" width="300" height="600" />
+    <img src="https://github.com/JeffreyvnZanten/consumptions_demo/blob/master/public/Screenshot%202025-04-23%20095630.png" alt="Alt Text" width="300" height="600" />
 </div>
